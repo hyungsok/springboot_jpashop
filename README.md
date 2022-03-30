@@ -1,1 +1,1 @@
-# springboot_jpashop
+# springboot jpa my study
